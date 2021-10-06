@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AkiAdam
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning C,C++,Java and HTML
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me https://www.linkedin.com/in/akhil-paulton-adem/
 
 <!---
