@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AkiAdam
+- 👋 Hi, I’m @Akhil 
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning C,C++,Java and HTML
 - 💞️ I’m looking to collaborate on web development
