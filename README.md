@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Akhil 
 #### i am a Web developer
-![i am a Web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![i am a Web developer](https://github.com/AkiAdam/AkiAdam/blob/main/bannerOG.jpg?raw=true)
 
 I am a recent Btech graduate, sharpening my skills in web development
 
